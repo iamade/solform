@@ -1,12 +1,3 @@
-/* You can add global styles to this file, and also import other style files */
-
-@import '../node_modules/font-awesome/css/font-awesome.min.css';
-@import "~ng-pick-datetime/assets/style/picker.min.css";
-
-body{
-    background-color: #d1deeb
-}
-
 
 .border-lable-flt {
     display: block;
@@ -67,11 +58,8 @@ body{
     border-bottom-left-radius: 0;
     border-top-left-radius: 0;
   }
-  
-  .form-control:focus {
-    color: #804000;
-    background-color: #fff;
-    border-color: #0f26ac;
-    box-shadow: 0 0 0 0.2rem rgba(0, 102, 51, 0.25);
+
+  .ngClass{
+      color: 1px solid blue;
   }
   
